@@ -17,7 +17,19 @@ Das Antriebssystem des Prophete Cargo Plus 22.ETL.10 basiert auf dem **AEG Comfo
 | **Maximales Drehmoment** | 100 Nm |
 | **Unterstützung** | Bis zu 25 km/h (Pedelec) |
 
-**Hinweis:** Es gibt Hinweise darauf, dass der AEG ComfortDrive Motor möglicherweise auf einem Bafang-Motor basiert. **Bestätigt durch Error 21:** Der Controller zeigt den Bafang-spezifischen Fehlercode Error 21 ("Speed sensor Error"), was eindeutig auf eine Bafang-basierte Controller-Technologie hinweist.
+**Hinweis zur Motor-Basis:**
+- **Äußere Beschriftung:** Der Motor trägt die Bezeichnung "AEG" auf der Hülle
+- **Technische Basis:** Es gibt starke Hinweise darauf, dass der AEG ComfortDrive Motor auf einem **Bafang-Motor basiert**
+- **Bestätigt durch Error 21:** Der Controller zeigt den Bafang-spezifischen Fehlercode Error 21 ("Speed sensor Error"), was eindeutig auf eine Bafang-basierte Controller-Technologie hinweist
+
+**OEM-Produktion (Original Equipment Manufacturer):**
+- Viele E-Bike-Hersteller verwenden **OEM-Motoren** von anderen Herstellern
+- Diese werden mit **eigenem Branding** versehen (z.B. "AEG" auf der Hülle)
+- Die **technische Basis** bleibt jedoch identisch (z.B. Bafang)
+- Dies ist in der E-Bike-Industrie **sehr üblich** und erklärt, warum:
+  - Der Motor "AEG" heißt, aber Bafang-Fehlercodes zeigt
+  - Bafang-Ersatzteile kompatibel sind
+  - Die Stecker identisch aussehen
 
 ### Sensoren
 
@@ -135,14 +147,19 @@ Das System wird über ein **AEG LCD-Display** gesteuert und überwacht.
 #### Bekannte Informationen
 
 - **Sensor-Typ:** **Hall-Sensor** (magnetischer Geschwindigkeitssensor) im Kunststoffgehäuse
-- **Motor-Basis:** Der AEG ComfortDrive Motor basiert möglicherweise auf einem **Bafang-Motor**
-- **Kompatibilität:** Prophete / AEG ComfortDrive nutzt sehr oft **Bafang-nahe Komponenten**. Der Speed Sensor ist in 90% der Fälle:
+- **Motor-Basis:** Der AEG ComfortDrive Motor basiert auf einem **Bafang-Motor** (OEM-Produktion)
+  - **Äußere Beschriftung:** "AEG" auf der Motorhülle (Branding)
+  - **Technische Basis:** Bafang-Motor (bestätigt durch Error 21)
+  - **OEM-Produktion:** AEG/Prophete nutzt Bafang-Motoren mit eigenem Branding
+  - **Hinweis:** Es ist **sehr üblich**, dass E-Bike-Hersteller OEM-Motoren verwenden und diese mit eigenem Branding versehen. Die technische Basis bleibt identisch.
+- **Kompatibilität:** Prophete / AEG ComfortDrive nutzt **Bafang-Komponenten**. Der Speed Sensor ist in 90% der Fälle:
   - Elektrisch: Standard-Hall-Sensor
   - Mechanisch: Standard-E-Bike-Sensor mit Magnet
-- **Anschluss:** Sehr wahrscheinlich **3-Draht-System**:
+- **Anschluss:** Sehr wahrscheinlich **3-Draht-System** (bei einfachen Sensoren) oder **4-polig CAN-BUS** (bei modernen Systemen):
   - +5V (oder +3.3V) Versorgung
   - GND (Masse)
   - Signal (Open Collector / Push-Pull, Rechtecksignal)
+  - CAN-H / CAN-L (bei CAN-BUS Systemen)
 - **Stecker:** Meist **Higo / Julet** (wasserdicht, rund, grün/schwarz) oder proprietär, aber elektrisch identisch
 - **Kompatibilität:** Viele AEG/Prophete-Bikes nutzen **baugleiche Sensoren wie Bafang BBSxx / MaxDrive / M-Serie** – nur mit anderem Stecker oder anderer Kabellänge
 - **Hinweis auf Standardisierung:** Es gibt Hinweise auf ein "Tuning Tool" für AEG Motoren, das zwischen Motor und Sensor eingefügt wird, was auf einen standardisierten Anschluss hindeuten könnte. Allerdings sind keine technischen Spezifikationen dazu öffentlich verfügbar.
