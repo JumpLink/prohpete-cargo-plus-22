@@ -31,7 +31,7 @@ Am verbauten **Datenkabel** (Display zum Controller) steht:
 - **Typ:** **DP C211** – Bafang-Display-Serie, Revision 1.0; **C211 erscheint nicht** in Bafangs aktueller öffentlicher Modellliste (dort z. B. C171, C221, C231). Wahrscheinlich **OEM-/Variantenbezeichnung** (z. B. für Prophete/AEG), technisch C-Serie CAN.
 - **Stecker:** **5-Pin, rund, grüner Innenstecker** – typisch Bafang/HIGO für Display–Controller (CAN). Pin-Anordnung: 1 Mittelpin, 4 Pins im Quadrat; Kerbe zur Orientierung.
 
-**Schlussfolgerung:** Das System nutzt ein **Bafang CAN-BUS Display-Kabel**. Ob ein Programmierkabel passt, hängt von der **Steckerform** ab: Am Rad ist der Stecker **rund** (grün). Manche BBS-CAN-Programmierkabel haben einen **Dreikant-** (dreieckigen) Stecker – **nicht zwingend baugleich**. Vor dem Kauf oder Anschluss **Steckerform und Pin-Anordnung vergleichen**; bei Abweichung passt es ggf. nicht oder nur mit Adapter.
+**Fazit:** Bafang CAN-BUS. Programmierkabel: Steckerform prüfen (am Rad rund/grün; viele Kabel Dreikant – nicht zwingend baugleich).
 
 ## Übersicht
 

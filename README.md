@@ -10,7 +10,7 @@ Persönliche Dokumentation zu Ersatzteilen, Reparaturen und technischen Details 
 | [Geschwindigkeitssensor](docs/geschwindigkeitssensor.md) | Error 21, Diagnose, Ersatzteil (Bafang), Kabelbruch-Reparatur |
 | [Reparatur & Werkzeuge](docs/reparatur.md) | Feste Schrauben lösen, Kabelbruch reparieren, bestellte Werkzeuge, Schraubenspezifikationen |
 | [Ersatzteile & Beschaffung](docs/ersatzteile.md) | Vorgehen bei Ersatzteilen, Prophete/Service, bestellte Teile |
-| [Programmierung & Kalibrierung](docs/programmierung.md) | Programmierkabel, Software (CAN Debugger Pro, BESST, OpenBafangTool), Kompatibilität AEG |
+| [Programmierung & Kalibrierung](docs/programmierung.md) | Kalibrierung: Kabel, Software, Open-Source-Firmware, Kompatibilität |
 | [Quellen](docs/quellen.md) | Links zu Hersteller, Anleitungen, Foren |
 
 ## Kurzinfo zum Rad
