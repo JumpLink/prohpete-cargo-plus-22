@@ -2,6 +2,8 @@
 
 Persönliche Dokumentation zu Ersatzteilen, Reparaturen und technischen Details meines E-Lastenrads. Öffentlich, falls sie anderen mit dem gleichen Modell oder ähnlichen AEG-ComfortDrive-Rädern hilft.
 
+<img width="1500" height="1500" alt="cargo" src="https://github.com/user-attachments/assets/9bbbe18a-ed44-4c80-88a8-161ad3f8b96b" />
+
 ## Inhalt
 
 | Dokument | Inhalt |
