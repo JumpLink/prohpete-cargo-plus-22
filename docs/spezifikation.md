@@ -14,7 +14,7 @@
 ## Sensoren
 
 - **Drehmomentsensor:** Hauptsensor, regelt Unterstützung nach Trittkraft.
-- **Geschwindigkeitssensor (Speed Sensor):** Hall-Sensor am Hinterrad (Rahmen, Kettenstrebe/Ausfallende). Magnet an Speiche/Bremsscheibe/Ritzelträger. Liefert Impulse für Anzeige und 25-km/h-Abschaltung. Kritisch für Sicherheit und Fehlercode Error 21.
+- **Geschwindigkeitssensor (Speed Sensor):** Hall-Sensor am Hinterrad (Rahmen, Kettenstrebe/Ausfallende), 4-polig CAN-BUS, wasserdichter Stecker. Magnet an Speiche/Bremsscheibe/Ritzelträger. Liefert Impulse für Anzeige und 25-km/h-Abschaltung. Kritisch für Sicherheit und Fehlercode Error 21.
 - **Drehzahlsensor (Cadence):** Vermutlich Hall-Sensor am Tretlager/ im Motor. Erkennt Pedalumdrehungen, Motor nur bei Tritt.
 
 ## Display & Steuerung
@@ -38,7 +38,7 @@ Am verbauten **Datenkabel** (Display zum Controller) steht:
 | Komponente | Details |
 |------------|---------|
 | Motor | AEG ComfortDrive, 250 W, 100 Nm |
-| Geschwindigkeitssensor | Hall-Sensor am Hinterrad |
+| Geschwindigkeitssensor | Hall-Sensor am Hinterrad, 4-polig CAN |
 | Drehzahlsensor | Am Tretlager / im Motor |
 | Display | AEG LCD, 5 Stufen, Schiebehilfe, ProKey, USB |
 | Limit | 25 km/h (Pedelec) |

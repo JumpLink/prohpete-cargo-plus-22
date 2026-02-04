@@ -20,9 +20,9 @@
 
 | Komponente | Schraube | Anmerkung |
 |------------|----------|-----------|
-| Motorabdeckung (Bosch-Referenz) | M3×14, TX10, Senkkopf, Edelstahl | AEG kann baugleich sein |
+| Motorabdeckung (Bosch-Referenz) | M3×16, TX10, Senkkopf, Edelstahl | AEG kann baugleich sein; 14 mm zu kurz |
 
-Suchbegriffe: „Senkschraube M3x14 TX10 Edelstahl“. Beim Einbau: Wechselseitig anziehen, 1–2 Nm.
+Suchbegriffe: „Senkschraube M3x16 TX10 Edelstahl“. Beim Einbau: Wechselseitig anziehen, 1–2 Nm.
 
 ## Bestelltes Werkzeug
 

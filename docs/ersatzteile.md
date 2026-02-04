@@ -10,7 +10,7 @@ Für andere Bauteile gilt dasselbe: zuerst Prophete/Fachwerkstatt; bei Garantie 
 
 ## Bestellte Ersatzteile (Beispiele)
 
-- **Geschwindigkeitssensor:** Bafang CAN-BUS Speed Sensor (4-polig, 5 V), siehe [Geschwindigkeitssensor](geschwindigkeitssensor.md).
+- **Geschwindigkeitssensor:** Bafang CAN-BUS Speed Sensor (4-polig, 5 V), siehe [Geschwindigkeitssensor](geschwindigkeitssensor.md). Bestelltes Teil entspricht dem Original, **Kabel ist kürzer** – ggf. **Verlängerungskabel** (4-polig für Bafang CAN, z. B. 30 cm oder 60 cm) nötig.
 
 ## Bestellte Werkzeuge
 
