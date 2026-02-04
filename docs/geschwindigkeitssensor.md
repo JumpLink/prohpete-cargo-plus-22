@@ -1,6 +1,6 @@
 # Geschwindigkeitssensor (Speed Sensor)
 
-Sensor am **Hinterrad** = Geschwindigkeitssensor (nicht Drehzahlsensor). Hall-Sensor, typisch 3-Draht oder 4-polig CAN-BUS.
+Sensor am **Hinterrad** = Geschwindigkeitssensor (nicht Drehzahlsensor). Hall-Sensor, **4-polig**, wasserdichter Stecker, Bafang Mittelmotor **CAN-Version** (kompatibel u. a. M210, M500, M510, M560, M820, G340(CAN), G320(CAN)).
 
 ## Error 21 (Bafang: Speed sensor Error)
 
@@ -12,9 +12,9 @@ Sensor am **Hinterrad** = Geschwindigkeitssensor (nicht Drehzahlsensor). Hall-Se
 
 ## Ersatzteil-Beschaffung
 
-Öffentliche Pinouts für den AEG-Sensor gibt es praktisch nicht. **Prophete** (obi@prophete.de, MOT-Nr. angeben) oder **autorisiertes Service**; Ersatzteilversorgung laut Prophete bis 5 Jahre. Wegen Bafang-Basis (Error 21) sind Bafang Speed Sensoren oft kompatibel – entscheidend: **Stecker** und ggf. Kabellänge.
+Öffentliche Pinouts für den AEG-Sensor gibt es praktisch nicht. **Prophete** (obi@prophete.de, MOT-Nr. angeben) oder **autorisiertes Service**; Ersatzteilversorgung laut Prophete bis 5 Jahre. Wegen Bafang-Basis (Error 21) sind Bafang-4-polig-CAN-Speed-Sensoren oft kompatibel – entscheidend: **4-poliger Stecker** (wasserdicht) und ggf. Kabellänge bzw. Verlängerungskabel.
 
-### Zwei Alternativen (Bafang CAN)
+### Zwei Alternativen (Bafang CAN, 4-polig)
 
 | | Zeekpowa | windmeile SR SD021.01 |
 |--|----------|------------------------|
@@ -26,6 +26,8 @@ Sensor am **Hinterrad** = Geschwindigkeitssensor (nicht Drehzahlsensor). Hall-Se
 
 Beide **technisch austauschbar** (gleiches Protokoll, 4-Pin CAN). **Empfehlung:** windmeile SR SD021.01 sieht wie Original aus, hat Bafang-Typnummer – sinnvoll, wenn Zeekpowa noch nicht verbaut. Lieferumfang: Sensor, Kabel, Magnet, Montagezubehör. Montage: Sensor am Rahmen (Kettenstrebe/Ausfallende), Magnet an Speiche, Abstand wie Hersteller.
 
+**Bestellter Sensor:** Entspricht dem Original (4-polig, Bafang CAN), das **Kabel ist jedoch kürzer** als das Original. Bei zu kurzer Kabellänge: **Verlängerungskabel** verwenden – z. B. „Geschwindigkeitssensor-Verlängerungskabel, 4-polig für Bafang Mittelmotor CAN-Version“ (30 cm oder 60 cm), 4-poliger wasserdichter Stecker. Suchbegriffe: *Bafang Speed Sensor Verlängerungskabel 4-polig CAN*.
+
 **Rechtlich:** Nur Reparatur/Ersatz. Manipulation an der 25-km/h-Begrenzung = rechtlich kein Pedelec mehr.
 
 ## Kabelbruch
@@ -34,4 +36,4 @@ Beide **technisch austauschbar** (gleiches Protokoll, 4-Pin CAN). **Empfehlung:*
 - **Reparatur möglich** (> 5–10 cm Kabelstumpf): Bruchstelle entfernen, Adern (Plus, Minus, Signal) einzeln löten, Schrumpfschlauch pro Ader, Kabelmantel wasserdicht.
 - **Bruch direkt am Sensor (< 5 cm):** Sensor tauschen.
 
-**Suchbegriffe:** Bafang Speed Sensor, E-Bike Hall Speed Sensor, Julet/Higo Speed Sensor; auf Steckertyp, Kabellänge (z. B. 40–60 cm), 3-Draht/4-polig CAN achten.
+**Suchbegriffe:** Bafang Speed Sensor (4-polig CAN), E-Bike Hall Speed Sensor; auf Kabellänge achten (ggf. Verlängerungskabel 30 cm / 60 cm).
