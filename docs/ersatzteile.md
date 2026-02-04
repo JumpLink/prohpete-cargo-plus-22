@@ -14,7 +14,7 @@ Für andere Bauteile gilt dasselbe: zuerst Prophete/Fachwerkstatt; bei Garantie 
 
 ## Bestellte Werkzeuge
 
-- Universal-Kurbelabzieher (Octalink/ISIS/Bosch), siehe [Reparatur](reparatur.md).
+- **Kurbelabzieher für Vierkant** (square taper) – das Tretlager ist Vierkant; Octalink/ISIS/Bosch-Abzieher passen nicht. Siehe [Reparatur](reparatur.md).
 
 ## Hinweis
 

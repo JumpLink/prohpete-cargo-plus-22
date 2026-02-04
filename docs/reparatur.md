@@ -20,13 +20,16 @@
 
 | Komponente | Schraube | Anmerkung |
 |------------|----------|-----------|
-| Motorabdeckung (Bosch-Referenz) | M3×16, TX10, Senkkopf, Edelstahl | AEG kann baugleich sein; 14 mm zu kurz |
+| Motorabdeckung (Bosch-Referenz) | M3×16, TX10, Senkkopf, Edelstahl | Original; M3×14 passen ebenfalls und können sinnvoll sein (Abdeckung war oft sehr fest – kürzere Schrauben ggf. beim nächsten Ausbau vorteilhaft) |
 
-Suchbegriffe: „Senkschraube M3x16 TX10 Edelstahl“. Beim Einbau: Wechselseitig anziehen, 1–2 Nm.
+Suchbegriffe: „Senkschraube M3x16 TX10 Edelstahl“ bzw. M3x14 TX10. Beim Einbau: Wechselseitig anziehen, 1–2 Nm.
 
-## Bestelltes Werkzeug
+## Kurbelabzieher (Tretlager / Sensor-Zugang)
 
-- **Universal-Kurbelabzieher** (z. B. Gold-Fieber): Octalink, ISIS, Bosch E-Bike – für Kurbelabbau (Tretlager/Sensor-Zugang).
+Das Prophete E-Cargo / AEG ComfortDrive hat ein **Vierkant-Tretlager** (square taper). Dafür wird ein **Kurbelabzieher für Vierkant** benötigt – **nicht** für Octalink, ISIS oder Bosch (diese haben andere Spindelformen und passen nicht).
+
+- **Richtiges Werkzeug:** Kurbelabzieher für **Vierkant** (square taper), z. B. „Kurbelabzieher Vierkant“ / „Kurbelabzieher square taper“. Schraubt in das Gewinde der Kurbel und drückt gegen die Spindel.
+- **Falsch:** „Universal“-Abzieher nur für Octalink/ISIS/Bosch (z. B. Gold-Fieber für Octalink+ISIS+Bosch) – passt nicht am Vierkant-Tretlager.
 
 ## Allgemein beim Arbeiten
 
